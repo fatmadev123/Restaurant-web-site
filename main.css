@@ -82,7 +82,7 @@ body{
 .header{
     min-height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0.4)),
-    url('hero.JPG') center/cover no-repeat fixed;
+    url('hero.jpg') center/cover no-repeat fixed;
     margin-top: auto;
 }
 .hero{
@@ -184,7 +184,7 @@ font-size: 50px;
 /*===========Menu section=======*/
 .menu-image{
     min-height: 80vh;
-    background: url(colorfulplate.JPG) center/cover fixed no-repeat;
+    background: url(colorfulplate.jpg) center/cover fixed no-repeat;
 }
 .menu-text{
     min-height: 80vh;
@@ -274,7 +274,7 @@ font-size: 50px;
 .number{
     text-align: center;
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-    url(background.JPG) center/cover no-repeat fixed;
+    url(background.jpg) center/cover no-repeat fixed;
     padding: 60px 0;
     color: #fff;
 }
